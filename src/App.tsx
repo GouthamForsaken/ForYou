@@ -18,7 +18,7 @@ export default function Page() {
       "Pretty please",
       "With a chocolate rice cake on top",
       "What about a matcha frostie",
-      "PLEASE POOKIE",
+      "PLEASE Samie",
       "But :*(",
       "I am going to die",
       "Yep im dead",
